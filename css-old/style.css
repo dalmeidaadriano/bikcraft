@@ -1,0 +1,32 @@
+/* global */
+@import "./global/footer.css";
+@import "./global/global.css";
+@import "./global/header.css";
+
+/* utilidades */
+/* componentes */
+@import "./utilidades/componentes.css";
+/* tipografia */
+@import "./utilidades/tipografia.css";
+/* cores */
+@import "./utilidades/cores.css";
+
+/* home */
+@import "";
+@import "";
+
+/* seguros */
+@import "";
+@import "";
+
+/* bicicletas */
+@import "";
+@import "";
+
+/* bicicleta */
+@import "";
+@import "";
+
+/* Termos */
+@import "";
+@import "";
