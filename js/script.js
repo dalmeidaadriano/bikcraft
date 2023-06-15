@@ -63,3 +63,9 @@ function eventosGaleria(igm) {
 }
 
 galeria.forEach(eventosGaleria);
+
+// Animacao
+new SimpleAnime();
+if (window.simpleAnime) {
+  new simpleAnime();
+}
